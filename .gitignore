@@ -1,0 +1,14 @@
+# 忽略 .iml 文件
+*.iml
+# .gradlew文件夹
+.gradle
+# 避免递归，仅在当前目录下忽略local.gradle文件，但不包括子目录下的文件
+/local.properties
+
+# 忽略.idea文件夹
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
