@@ -1,2 +1,3 @@
 rootProject.name='andemo'
 include ':app'
+include ':utils'
